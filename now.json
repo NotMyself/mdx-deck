@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "mdx-deck",
+  "alias": "mdx-deck.notmyself.io",
+  "builds": [
+    { "src": "deck.js", "use": "@now/mdx-deck" },
+    { "src": "*.png", "use": "@now/static-build" }
+  ]
+}

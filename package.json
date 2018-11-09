@@ -1,0 +1,14 @@
+{
+  "name": "mdx-deck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deck.js",
+  "scripts": {
+    "start": "mdx-deck deck.js"
+  },
+  "author": "Bobby Johnson",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}
