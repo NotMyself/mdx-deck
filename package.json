@@ -1,13 +1,13 @@
 {
   "name": "mdx-deck",
   "version": "1.0.0",
-  "description": "",
+  "description": "A test mdx deck",
   "main": "deck.js",
   "scripts": {
     "start": "mdx-deck deck.js"
   },
   "author": "Bobby Johnson",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "mdx-deck": "^1.7.7"
   }
