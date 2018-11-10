@@ -4,7 +4,9 @@
   "description": "A test mdx deck",
   "main": "deck.js",
   "scripts": {
-    "start": "mdx-deck deck.js"
+    "start": "mdx-deck deck.js",
+    "pdf": "mdx-deck pdf deck.js",
+    "screenshot": "mdx-deck screenshot deck.js"
   },
   "author": "Bobby Johnson",
   "license": "MIT",
