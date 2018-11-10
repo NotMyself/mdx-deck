@@ -4,6 +4,6 @@
   "alias": "mdx-deck.notmyself.io",
   "builds": [
     { "src": "deck.js", "use": "@now/mdx-deck" },
-    { "src": "**/*.png", "use": "@now/static-build" }
+    { "src": "**/*.png", "use": "@now/static" }
   ]
 }
