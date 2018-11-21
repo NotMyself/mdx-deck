@@ -11,10 +11,11 @@
   "author": "Bobby Johnson",
   "license": "MIT",
   "devDependencies": {
+    "imports-loader": "^0.8.0",
     "mdx-deck": "^1.7.10"
   },
   "dependencies": {
-    "imports-loader": "^0.8.0",
+    
     "snapsvg": "^0.5.1"
   }
 }
