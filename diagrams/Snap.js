@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 // eslint-disable-next-line import/no-webpack-loader-syntax
-import Snap from 'imports-loader?this=>window,fix=>module.exports=0!snapsvg/dist/snap.svg.js';
+import Snap from 'snapsvg-cjs';
 
 const isFn = val => typeof val === "function"
 
