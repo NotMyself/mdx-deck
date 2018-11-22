@@ -11,10 +11,7 @@
   "author": "Bobby Johnson",
   "license": "MIT",
   "devDependencies": {
-    "mdx-deck": "^1.7.10"
-  },
-  "dependencies": {
-    "snapsvg": "^0.5.1",
+    "mdx-deck": "^1.7.10",
     "snapsvg-cjs": "0.0.6"
   }
 }
