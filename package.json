@@ -12,10 +12,8 @@
   "author": "Bobby Johnson",
   "license": "MIT",
   "devDependencies": {
+    "imports-loader": "0.8.0",
     "mdx-deck": "1.8.2",
-    "snapsvg-cjs": "0.0.6"
-  },
-  "peerDependencies": {
-    "eve": "0.5.4"
+    "snapsvg": "0.5.1"
   }
 }
