@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import Snap from 'snapsvg';
+import Snap from 'snapsvg-cjs';
 
 const isFn = val => typeof val === "function"
 
