@@ -11,7 +11,7 @@
   },
   "author": "Bobby Johnson",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "mdx-deck": "1.8.2",
     "snapsvg-cjs": "0.0.6"
   }
