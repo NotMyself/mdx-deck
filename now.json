@@ -3,7 +3,7 @@
   "name": "mdx-deck",
   "alias": "mdx-deck.notmyself.io",
   "builds": [
-    { "src": "deck.js", "use": "@now/mdx-deck" },
+    { "src": "deck.js", "use": "@now/mdx-deck@canary" },
     { "src": "assets/**/*.*", "use": "@now/static" }
   ]
 }
